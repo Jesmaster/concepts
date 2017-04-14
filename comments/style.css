@@ -1,0 +1,10 @@
+.modal-title{
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	cursor:pointer;
+}
+
+.modal-title.active{
+	white-space: normal;
+}

@@ -1,0 +1,14 @@
+{
+	"title":"Sure, here you go.",
+	"discussions": [
+		{
+			"answer": "<p>Thanks!</p>",
+			"children": [
+				{
+					"child_answer": "<p>No problem, glad to help!</p>",
+					"child_discussion": ""
+				}
+			]
+		}
+	]	
+}
