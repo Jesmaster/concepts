@@ -1,5 +1,5 @@
 {
-	"title":"Sure, here you go.",
+	"title": "<p>Sure, here you go. <a target=\"_blank\" href=\"https://www.theguardian.com/news/reality-check/2015/dec/11/donald-trump-needs-check-facts-british-muslims-isis\" title=\"Is Donald Trump right that more British Muslims fight for Isis than the UK army?\">Is Donald Trump right that more British Muslims fight for Isis than the UK army?</a></p><p>Will you only eat a pasteurized steak? Would you eat steak tartare from a steak in the fridge for 1 day and immediately prepared? What about veggies? Would you eat a carrot from the fridge that was stored touching the steak? Refrigerators are somewhere below 40F. A steak in the fridge will go bad after a week or so, since bacteria grow below 40F, but slowly. It doesn't grow in deep freeze at all.<br />Likewise, bacteria grow very slowly at 125F. Listeria can grow below freezing, but stops growing at 113F, but you trust your fridge more than sous vode at 129f.<br />I would have no problem eating a fresh steak held at 129F for a day. It would be no different than eating it from the fridge held cold for a day. If it's safe to eat a steak held at 39F and cooked to 129F, then that logic should apply to holding it at 129F. I think the one in sous vide would be safer.</p>",
 	"discussions": [
 		{
 			"answer": "<p>Thanks!</p>",
@@ -10,5 +10,6 @@
 				}
 			]
 		}
-	]	
+	],
+	"parent_discussion":"1"
 }

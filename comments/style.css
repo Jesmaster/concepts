@@ -5,6 +5,19 @@
 	cursor:pointer;
 }
 
+.modal-title > p{
+	display:none;
+}
+
+.modal-title > p:first-child{
+	display:block;
+}
+
+
 .modal-title.active{
 	white-space: normal;
+}
+
+.modal-title.active > p{
+	display:block;
 }
